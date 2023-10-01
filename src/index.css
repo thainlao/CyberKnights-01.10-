@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.horline {
+  position: absolute;
+  width: 1px;
+  height: 100vh;
+  background-color: white;
+  left: 20%;
+}
+
+.horline2 {
+  position: absolute;
+  width: 1px;
+  height: 100vh;
+  background-color: white;
+  left: 70%;
+}
+

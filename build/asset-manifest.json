@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e70051b8.css",
+    "main.js": "/static/js/main.bdc08e71.js",
+    "static/media/248.png": "/static/media/248.4f3f108edf5104b22c2f.png",
+    "static/media/322.png": "/static/media/322.7b9daaaf66ea50d998b1.png",
+    "static/media/249.png": "/static/media/249.2da47cc2442d4380659c.png",
+    "static/media/Cyberthrone.ttf": "/static/media/Cyberthrone.0d778ba2b98e73b31a4b.ttf",
+    "static/media/cyberspace.ttf": "/static/media/cyberspace.1174c48205a79970ee3b.ttf",
+    "static/media/Cyber City.otf": "/static/media/Cyber City.7c05a97d6206637e3b5d.otf",
+    "index.html": "/index.html",
+    "main.e70051b8.css.map": "/static/css/main.e70051b8.css.map",
+    "main.bdc08e71.js.map": "/static/js/main.bdc08e71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e70051b8.css",
+    "static/js/main.bdc08e71.js"
+  ]
+}
